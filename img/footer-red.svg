@@ -1,0 +1,6 @@
+<svg width="200" height="244" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#2C6269" d="M100 144H0V44h100z"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M100 244c55.228 0 100-44.772 100-100S155.228 44 100 44 0 88.772 0 144s44.772 100 100 100zm0-67c18.225 0 33-14.775 33-33s-14.775-33-33-33-33 14.775-33 33 14.775 33 33 33z" fill="#004047"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M100 100H0v4h100v-4zm0 8H0v4h100v-4zM0 116h100v4H0v-4zm100 8H0v4h100v-4zM0 132h100v4H0v-4zm100 8H0v4h100v-4z" fill="#F67E7E"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M0 0h4v4H0V0zm11 0H7v4h4V0zm0 8H7v4h4V8zm-4 8h4v4H7v-4zm4 8H7v4h4v-4zm-4 8h4v4H7v-4zm4 8H7v4h4v-4zm3-40h4v4h-4V0zm0 8h4v4h-4V8zm4 8h-4v4h4v-4zm-4 8h4v4h-4v-4zm4 8h-4v4h4v-4zm-4 8h4v4h-4v-4zM0 8h4v4H0V8zm21-8h4v4h-4V0zm0 8h4v4h-4V8zm4 8h-4v4h4v-4zm-4 8h4v4h-4v-4zm4 8h-4v4h4v-4zm-4 8h4v4h-4v-4zM0 16h4v4H0v-4zM28 0h4v4h-4V0zm0 8h4v4h-4V8zm4 8h-4v4h4v-4zm-4 8h4v4h-4v-4zm4 8h-4v4h4v-4zm-4 8h4v4h-4v-4zM0 24h4v4H0v-4zM35 0h4v4h-4V0zm0 8h4v4h-4V8zm4 8h-4v4h4v-4zm-4 8h4v4h-4v-4zm4 8h-4v4h4v-4zm-4 8h4v4h-4v-4zM0 32h4v4H0v-4zM42 0h4v4h-4V0zm0 8h4v4h-4V8zm4 8h-4v4h4v-4zm-4 8h4v4h-4v-4zm4 8h-4v4h4v-4zm-4 8h4v4h-4v-4zM0 40h4v4H0v-4zM49 0h4v4h-4V0zm0 8h4v4h-4V8zm4 8h-4v4h4v-4zm-4 8h4v4h-4v-4zm4 8h-4v4h4v-4zm-4 8h4v4h-4v-4z" fill="#79C8C7"/>
+</svg>
